@@ -32,7 +32,7 @@ Regarding the user onboarding and KYC process, we anticipated to use the identit
 
 **Other Deliverables** 
 
-[English and Spanish Videos](https://drive.google.com/drive/folders/1x6fYZK_aFoM2lfoRQciPsytZHN9zW9Nj?usp=sharing)
+[English](https://drive.google.com/file/d/1Gzz1scZt4LSBPrQ30XXZzclhAXjjdUHJ/view?usp=sharing) and [Spanish](https://drive.google.com/file/d/12HGvMEMDU5NMRXcEa8m3gkuqjwO3iONV/view?usp=sharing) Videos
 
 [English](https://docs.google.com/document/d/1bDswb619nkdL0xt41GEJEtyLcCOc3LO-M-dB2RdDr9s/edit?usp=sharing) and [Spanish](https://docs.google.com/document/d/1DNHgONQrZfpG4f0f79n6pS9h9jUQQDW52OlWCw1TiJA/edit?usp=sharing) Articles
 
